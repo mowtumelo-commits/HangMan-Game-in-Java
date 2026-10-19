@@ -1,0 +1,20 @@
+Apple - Fruit
+Bread - Food
+Chair - Furniture
+Earth - Planet
+House - Building
+Italy - Country
+Juice - Drink
+Knife - Kitchen utensil
+Lemon - Fruit
+Mouse - Animal
+Snake - Animal
+Table - Furniture
+Venus - Planet
+Zebra - Animal
+Eagle - Bird
+Horse - Animal
+Onion - Vegetable
+Pizza - Food
+Robin - Bird
+Tiger - Animal
